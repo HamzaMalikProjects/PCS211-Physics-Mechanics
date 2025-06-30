@@ -10,7 +10,7 @@
 
 PCS211 provides a foundational understanding of classical mechanics with a focus on engineering applications. The course emphasizes both theoretical and applied aspects of force systems, motion, and equilibrium. Students learn to model and solve real-world physical problems using vector analysis and Newtonian principles.
 
-### Topics Covered:
+## Topics Covered:
 - 2D/3D vector mechanics and force systems  
 - Moments and couples, static equilibrium  
 - Free-body diagrams and structural analysis  
